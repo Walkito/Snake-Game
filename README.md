@@ -1,0 +1,2 @@
+# Snake-Game
+Este projeto tinha como objetivo recriar o tão aclamado e popular "Snake Game", ou em português "O Jogo da Cobrinha". O Objetivo principal é alimentar a cobra, comendo as comidinhas que aparecem no mapa. A cada comidinha recolhida, a cobra cresce de tamanho, aumentando assim a dificuldade, pois não se pode tocar nas extremidades do mapa, nem nas partes da cobra, caso contrário será Game Over. Um ótimo projeto onde pude aperfeiçoar minha lógica de programação e skills.
